@@ -27,7 +27,6 @@
 - 🎓 BTech CSE (AI/ML) Student | Hyderabad Institute of Technology and Management  
 - 🛠 Currently exploring **Angular**, **React**, **Node.js**, and **Express.js**
 - 🤝 Open to collaboration on **GSoC** and impactful open-source projects  
-- 🐘 Working on **AI-based Animal Detection on Railway Tracks**  
 - 💬 Ask me about **Java, Python, C, Web Dev, and Machine Learning**
 - 📫 Reach me: **chandraveerakiran@gmail.com**
 
